@@ -4,7 +4,7 @@
 const seo = {
   title: "Ribhav's Portfolio",
   description:
-    "A passionate software developer who always thrives to work on coding and machine learning related problems and finding sustainable and scalable solution to create impact.",
+    "Versatile data scientist and software developer combining analytical expertise with strong programming skills to deliver data-driven applications. Committed to optimizing processes, solving intricate problems, and delivering innovative solutions for real-world impact.",
   og: {
     title: "Ribhav Jain Portfolio",
     type: "website",
@@ -17,7 +17,7 @@ const greeting = {
   title: "Ribhav Jain",
   logo_name: "Ribhav Jain",
   subTitle:
-    "A passionate software developer who always thrives to work on coding and machine learning related problems and finding sustainable and scalable solution to create impact.",
+    "Versatile data scientist and software developer combining analytical expertise with strong programming skills to deliver data-driven applications. Committed to optimizing processes, solving intricate problems, and delivering innovative solutions for real-world impact.",
   resumeLink:
     "https://docs.google.com/document/d/13QFW9lmCy23KNn9vGpkVA7TU4W4UQxf4jjWPVhtyIVE/",
   portfolio_repository: "https://github.com/ribhav-jain/Portfolio",
@@ -58,9 +58,9 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceLottie",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deep learning and statistical use cases",
-        "⚡ Experience of working with deep learning and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Extensive data science and AI experience, adept at extracting valuable insights from time series data to drive data-driven decision-making.",
+        "⚡ Proficient in Natural Language Processing (NLP) techniques, utilizing them to create advanced chatbot applications that elevate user interactions and deliver exceptional customer experiences.",
+        "⚡ Demonstrated expertise in managing intricate time series datasets, applying advanced statistical methods and machine learning algorithms to reveal patterns and trends for predictive modeling and optimization.",
       ],
       softwareSkills: [
         {
@@ -119,8 +119,9 @@ const skills = {
       title: "Front-end Development",
       fileName: "FrontendLottie",
       skills: [
-        "⚡ Develop highly interactive Front-end / User Interfaces for web and mobile applications",
-        "⚡ Developing web and mobile applications using Ext JS, React, JavaScript, CSS and HTML",
+        "⚡ Proficient in Ext JS and React, creating dynamic web apps with captivating UI/UX and seamless interactions.",
+        "⚡ Seasoned in developing visually striking dashboards, user-friendly CRUD interfaces, and progressive forms, employing a user-centric approach to streamline data management and optimize user engagement.",
+        "⚡ Skilled in building web and mobile-friendly applications, ensuring optimal user experiences across various devices and screen sizes, through responsive and adaptive design techniques.",
       ],
       softwareSkills: [
         {
@@ -178,9 +179,9 @@ const skills = {
       title: "Back-end Development",
       fileName: "BackendLottie",
       skills: [
-        "⚡ Creating highly optimizated and scalable application backend in Spring, Play framework, Flask and Node",
-        "⚡ Designed and implemented REST controllers, service layers and data models in Java using Spring framework and Hibernate ORM",
-        "⚡ Implemented data pipelines using Python, Java, Spring Boot and Spring Data",
+        "⚡ Demonstrated expertise in optimizing backend performance and ensuring data security while harnessing the power of Play and Django to create seamless and efficient AI solutions for real-world challenges.",
+        "⚡ Proficient in implementing Identity and Access Management (IAM) solutions, integrating authentication, authorization, and user management features to ensure secure and seamless user interactions.",
+        "⚡ Successfully designed and implemented data pipelines using Pentaho and Spring Batch, orchestrating complex data workflows and ETL processes to ensure efficient data integration and transformation.",
       ],
       softwareSkills: [
         {
@@ -276,8 +277,8 @@ const degrees = {
       alt_name: "Panjab University Chandigarh",
       duration: "2016 - 2020",
       descriptions: [
-        "⚡ I have studied software engineering subjects like Data Structure, Algorithms, DBMS, Operating System, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science and Full Stack Development.",
+        "⚡ Equipped with a strong foundation in software engineering subjects, including Data Structures, Algorithms, DBMS, Operating Systems, Computer Architecture, and Artificial Intelligence, enabling me to tackle diverse technical challenges effectively.",
+        "⚡ Additionally, I have pursued comprehensive courses in cutting-edge fields such as Deep Learning, Data Science, and Full Stack Development, augmenting my skill set to harness the latest technologies and frameworks for building innovative and data-driven solutions.",
       ],
       website_link: "https://puchd.ac.in/",
     },
@@ -342,7 +343,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work & Internship",
   description:
-    "I have worked as ML and DL Developer. I have also worked with some well established companies as Software Architect.",
+    "Experienced ML/DL Developer. Strong problem-solving and communication skills, delivering innovative solutions.",
   sections: [
     {
       title: "Work",
@@ -359,7 +360,7 @@ const experience = {
           duration: "May 2019 - Sept 2019",
           location: "Chandigarh, India",
           description:
-            "I have worked on project of predicting crop price rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict next month crop rates. (2) To embed feature in the model which can explain the seasonal major changes in crop rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2.",
+            "Developed a secure and user-friendly login system utilizing Flask and React, integrating face recognition technology for seamless authentication. The project enhances user experience and ensures heightened security by employing cutting-edge facial recognition algorithms to verify user identities.",
         },
         {
           title: "Software Developer Intern",
@@ -380,7 +381,7 @@ const experience = {
 const projects = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and integrate with Frontend to provide end to end solutions.",
+    "My projects center around creating innovative Data Science solutions, seamlessly integrated with frontend applications to deliver comprehensive end-to-end solutions. With a focus on bridging the gap between data insights and user experiences.",
   projectDetails: {
     data: [
       {
@@ -389,7 +390,7 @@ const projects = {
         createdAt: "2021-06-12",
         url: "https://github.com/ribhav-jain/Portfolio",
         description:
-          "The complete customizable software developer portfolio template which lets you showcase your work and provides each and every detail about you as software developer.",
+          "Fully customizable software developer portfolio template that showcases your projects, skills, and comprehensive details as a software developer.",
         languages: [
           { name: "HTML", icon: "vscode-icons:file-type-html" },
           { name: "CSS", icon: "vscode-icons:file-type-css" },
@@ -403,7 +404,7 @@ const projects = {
         createdAt: "2020-06-18",
         url: "https://github.com/ribhav-jain/Stock-Price-Prediction",
         description:
-          "Predicting stock price using historical data of a company, using Recurrent neural networks(LSTM).",
+          "Predicting stock prices with LSTM-based Recurrent Neural Networks using historical company data.",
         languages: [
           { name: "Tensorflow", icon: "logos:tensorflow" },
           { name: "Keras", icon: "simple-icons:keras" },
@@ -416,7 +417,7 @@ const projects = {
         createdAt: "2019-06-20",
         url: "https://github.com/ribhav-jain/Spam-Classifier",
         description:
-          "ML-powered Flask app to perform spam classification of SMS messages using TF-IDF vectorization.",
+          "Flask app utilizing ML to classify SMS spam with TF-IDF vectorization.",
         languages: [
           { name: "Python", icon: "logos:python" },
           { name: "HTML", icon: "vscode-icons:file-type-html" },
@@ -429,7 +430,7 @@ const projects = {
         createdAt: "2018-07-11",
         url: "https://github.com/ribhav-jain/Real-Estate-Price-Prediction",
         description:
-          "Predict the real estate price using Machine Learning, perform data visualization to understand the insight of the data.",
+          "Machine Learning model predicts real estate prices with insightful data visualization.",
         languages: [
           { name: "Python", icon: "logos-python" },
           { name: "Jupyter Notebook", icon: "logos:jupyter" },
@@ -444,7 +445,7 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     description:
-      "Feel free to get in touch. I can help you with ML, AI, Data Science and Full Stack development.",
+      "Feel free to get in touch to discuss projects or collaborations. I offer expertise in ML, AI, Data Science, and Full Stack development.",
   },
   addressSection: {
     title: "Address",
